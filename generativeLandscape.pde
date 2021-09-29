@@ -1,7 +1,6 @@
 PImage sky;
 PImage overlay;
 PImage overlayTwo;
-PImage star;
 float x1, y1, x2, y2;
 float speed1, speed2;
 
