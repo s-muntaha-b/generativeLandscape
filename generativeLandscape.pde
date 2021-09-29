@@ -14,14 +14,14 @@ void setup() {
   overlay.resize(800, 400);
   imageMode(CENTER);
   overlayTwo = loadImage("cloud2.png");
-  overlayTwo.resize(400, 800);
+  overlayTwo.resize(1000, 400);
   imageMode(CENTER);
 
   x1 = width/2;
   y1 = height/2;
   x2 = x1 + 25;
   y2 = y1 - 25;
-  speed1 = 3;
+  speed1 = 2;
   speed2 = speed1 * 0.5;
 }
 
